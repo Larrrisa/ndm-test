@@ -1,6 +1,6 @@
 # NDM - таблица маршрутов
 
-## Ссылка - larrrisa.github.io/ndm-test/
+## Ссылка - <https://larrrisa.github.io/ndm-test/>
 
 ## Описание
 
